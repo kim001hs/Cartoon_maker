@@ -8,11 +8,6 @@ transfer image to cartoon image
   <img src="image1.jpg" width="45%">
   <img src="image1_cartoon.png" width="45%">
 </p>
-  
-<p align="center">
-  <img src="image2.jpg" width="45%">
-  <img src="image2_cartoon.png" width="45%">
-</p>
  
 
 ### 잘 표현되지 않는 예시  
