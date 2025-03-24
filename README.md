@@ -14,7 +14,7 @@ transfer image to cartoon image
   <img src="image2_cartoon.png" width="45%">
 </p>
 
-###한계점
+### 한계점
 
 - 밝고 윤곽선의 내,외부 사이의 대비가 큰 경우에 대해선 만화같은 표현이 잘 적용되지만 어두운 사진의 경우에는 밝기 대비가 낮아 윤곽선을 찾기가 어렵다
 
