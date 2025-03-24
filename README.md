@@ -1,9 +1,7 @@
 # Cartoon_maker
 transfer image to cartoon image
 
-### 잘 표현되는 예시  
-### 예시  
-
+### 잘 표현되는 예시
 <p align="center">
   <img src="image1.jpg" width="45%">
   <img src="image1_cartoon.png" width="45%">
