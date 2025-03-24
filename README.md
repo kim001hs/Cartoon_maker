@@ -1,11 +1,11 @@
 # Cartoon_maker
 transfer image to cartoon image
 
-잘 표현되는 예시
-![이미지1](image1.jpg) ![이미지1 카툰화](image1_cartoon.png)
+### 잘 표현되는 예시  
+<img src="image1.jpg" width="50%"> <img src="image1_cartoon.png" width="50%">  
 
-잘 표현되지 않는 예시
-![이미지2](image1.jpg) ![이미지2 카툰화](image1_cartoon.png)
+### 잘 표현되지 않는 예시  
+<img src="image2.jpg" width="50%"> <img src="image2_cartoon.png" width="50%">  
 
 ###한계점
 
