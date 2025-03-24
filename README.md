@@ -2,10 +2,24 @@
 transfer image to cartoon image
 
 ### 잘 표현되는 예시  
-<img src="image1.jpg" width="50%"> <img src="image1_cartoon.png" width="50%">  
+### 예시  
+
+<p align="center">
+  <img src="image1.jpg" width="45%">
+  <img src="image1_cartoon.png" width="45%">
+</p>
+  
+<p align="center">
+  <img src="image2.jpg" width="45%">
+  <img src="image2_cartoon.png" width="45%">
+</p>
+ 
 
 ### 잘 표현되지 않는 예시  
-<img src="image2.jpg" width="50%"> <img src="image2_cartoon.png" width="50%">  
+<p align="center">
+  <img src="image2.jpg" width="45%">
+  <img src="image2_cartoon.png" width="45%">
+</p>
 
 ###한계점
 
